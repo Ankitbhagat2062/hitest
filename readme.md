@@ -19,12 +19,9 @@
 
 ## Watch video
 
-Watch video at `chai aur code` youtube channel.
+Watch video at `Marvels Entertainment` youtube channel.
 
-
-## Help and community
-
-If you have any questions or need help, please ask in the [Discord community](https://chaicode.com).
+.
 
 
 
